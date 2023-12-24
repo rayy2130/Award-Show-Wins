@@ -1,0 +1,416 @@
+Episode,Date,Artist,Song,Points
+1,October 28,VIXX,"""Error""","9,850"
+2,November 4,VIXX,"""Error""","8,059"
+3,November 11,Boyfriend,"""Witch""","7,669"
+4,November 18,Zhou Mi,"""Rewind""","8,114"
+5,November 25,Hyolyn and Jooyoung,"""Erase""","7,415"
+6,December 2,Apink,"""Luv""","7,237"
+7,December 9,Apink,"""Luv""","8,257"
+8,December 16,Apink,"""Luv""","8,498"
+9,December 23,No broadcast or winner,No broadcast or winner,No broadcast or winner
+10,December 30,No broadcast or winner,No broadcast or winner,No broadcast or winner
+11,January 13,EXID,"""Up & Down""","8,165"
+12,January 20,Jonghyun,"""Déjà-Boo""","8,604"
+13,January 27,Jonghyun,"""Déjà-Boo""","7,388"
+14,February 3,Infinite H,"""Pretty""","7,572"
+15,February 10,Infinite H,"""Pretty""","8,382"
+16,February 17,U-KISS,"""Playground""",China Choice
+17,February 24,Lunar New Year,Lunar New Year,Lunar New Year
+18,March 3,VIXX,"""Love Equation""","8,250"
+19,March 10,VIXX,"""Love Equation""","8,254"
+20,March 17,VIXX,"""Love Equation""","7,941"
+21,March 24,Boyfriend,"""Bounce""","8,084"
+22,March 31,Red Velvet,"""Ice Cream Cake""","7,138"
+23,April 7,F.T. Island,"""Pray""","7,832"
+24,April 14,F.T. Island,"""Pray""","7,728"
+25,April 21,EXID,"""Ah Yeah""","7,117"
+26,April 28,Exo,"""Call Me Baby""","8,227"
+27,May 5,BTS,"""I Need U""","8,078"
+28,May 12,BTS,"""I Need U""","8,442"
+29,May 19,Kim Sung-kyu,"""The Answer""","8,413"
+—,May 26,UNIQ,"""EOEO""",China Choice
+30,June 2,Kara,"""Cupid""","8,274"
+31,June 9,Shinee,"""View""","7,861"
+32,June 16,Exo,"""Love Me Right""","8,317"
+33,June 23,2PM,"""My House""","8,516"
+34,June 30,Teen Top,"""Ah-Ah""","7,218"
+35,July 7,AOA,"""Heart Attack""","7,416"
+36,July 14,Girls' Generation,"""Party""","8,286"
+37,July 21,Infinite,"""Bad""","8,648"
+38,July 28,Infinite,"""Bad""","8,657"
+39,August 4,Summer K-Pop Festival,Summer K-Pop Festival,Summer K-Pop Festival
+40,August 11,Summer K-Pop Festival,Summer K-Pop Festival,Summer K-Pop Festival
+41,August 18,Summer K-Pop Festival,Summer K-Pop Festival,Summer K-Pop Festival
+42,August 25,Girls' Generation,"""Lion Heart""","7,295"
+43,September 1,VIXX LR,"""Beautiful Liar""","9,464"
+—,September 8,No Chart,No Chart,No Chart
+44,September 15,Red Velvet,"""Dumb Dumb""","7,498"
+45,September 22,CNBLUE,"""Cinderella""","8,607"
+46,September 29,CNBLUE,"""Cinderella""","8,545"
+47,October 6,Got7,"""If You Do""","8,981"
+48,October 13,Got7,"""If You Do""","8,598"
+49,October 20,Got7,"""If You Do""","9,241"
+50,October 27,Kim Dong-wan,"""I'm Fine""","7,402"
+51,November 3,2015 Asia Dream Concert,2015 Asia Dream Concert,2015 Asia Dream Concert
+52,November 10,f(x),"""4 Walls""","8,910"
+53,November 17,VIXX,"""Chained Up""","8,914"
+54,November 24,Lee Hong-gi,"""Insensible""","7,310"
+55,December 1,B.A.P,"""Young, Wild & Free""","7,447"
+56,December 8,BTS,"""Run""","8,951"
+57,January 26,Teen Top,"""Warning Sign""","8,473"
+58,February 2,GFriend,"""Rough""","8,044"
+—,February 9,Lunar New Year,Lunar New Year,Lunar New Year
+59,February 16,GFriend,"""Rough""","7,653"
+60,February 23,SS301,"""Pain""","7,062"
+61,March 1,Taemin,"""Press Your Number""","8,397"
+62,March 8,B.A.P,"""Feel So Good""","7,876"
+63,March 15,Mamamoo,"""You're The Best""","7,642"
+64,March 22,Red Velvet,"""One of These Nights""","7,823"
+65,March 29,Got7,"""Fly""","9,025"
+66,April 5,Got7,"""Fly""","9,108"
+67,April 12,CNBLUE,"""You're So Fine""","7,690"
+68,April 19,CNBLUE,"""You're So Fine""","8,385"
+69,April 26,VIXX,"""Dynamite""","8,841"
+70,May 3,VIXX,"""Dynamite""","8,208"
+71,May 10,VIXX,"""Dynamite""","8,220"
+72,May 17,Tiffany,"""I Just Wanna Dance""","7,898"
+73,May 24,AOA,"""Good Luck""","8,192"
+74,May 31,Jonghyun,"""She Is""","8,644"
+—,June 7,No broadcast or winner,No broadcast or winner,No broadcast or winner
+75,June 14,EXID,"""L.I.E.""","8,924"
+76,June 21,Exo,"""Monster""","9,440"
+77,June 28,Sistar,"""I Like That""","7,044"
+78,July 5,EXID,"""L.I.E.""","8,410"
+79,July 12,Wonder Girls,"""Why So Lonely""","7,673"
+80,July 19,GFriend,"""Navillera""","8,404"
+81,July 26,F.T. Island,"""Take Me Now""","7,970"
+82,August 2,GFriend,"""Navillera""","8,039"
+83,August 9,GFriend,"""Navillera""","8,034"
+84,August 16,I.O.I,"""Whatta Man""","9,012"
+85,August 23,VIXX,"""Fantasy""","9,144"
+86,August 30,I.O.I,"""Whatta Man""","7,241"
+87,September 6,VIXX,"""Fantasy""","9,159"
+88,September 13,Red Velvet,"""Russian Roulette""","8,352"
+89,September 20,Red Velvet,"""Russian Roulette""","8,449"
+—,September 27,No broadcast or winner,No broadcast or winner,No broadcast or winner
+—,October 4,No broadcast or winner,No broadcast or winner,No broadcast or winner
+90,October 11,Shinee,"""1 of 1""","8,282"
+91,October 18,Got7,"""Hard Carry""","8,714"
+92,October 25,BTS,"""Blood Sweat & Tears""","8,936"
+93,November 1,Twice,"""TT""","8,680"
+94,November 8,VIXX,"""The Closer""","8,861"
+95,November 15,Exo-CBX,"""Hey Mama!""","7,936"
+96,November 22,B.A.P,"""Skydive""","8,072"
+97,November 29,Mamamoo,"""Décalcomanie""","7,523"
+98,December 6,B1A4,"""A Lie""","7,732"
+—,December 13,Seventeen,"""Boom Boom""","8,005"
+—,December 20,No broadcast or winner,No broadcast or winner,No broadcast or winner
+—,December 27,No broadcast or winner,No broadcast or winner,No broadcast or winner
+—,January 3,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 10,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 17,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 24,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 31,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+99,February 7,Red Velvet,"""Rookie""","9,121"
+100,February 14,NCT Dream,"""My First and Last""","8,291"
+101,February 21,NCT Dream,"""My First and Last""","8,248"
+102,February 28,NCT Dream,"""My First and Last""","9,162"
+103,March 7,Twice,"""Knock Knock""","8,445"
+104,March 14,GFriend,"""Fingertip""","8,235"
+105,March 21,Got7,"""Never Ever""","8,663"
+106,March 28,Highlight,"""Plz Don't Be Sad""","8,536"
+107,April 4,Girl's Day,"""I'll Be Yours""","7,902"
+108,April 11,GFriend,"""Fingertip""","7,858"
+109,April 18,Jung Eun-ji,"""The Spring""","8,245"
+110,April 25,EXID,"""Night Rather Than Day""","9,372"
+111,May 2,EXID,"""Night Rather Than Day""","7,704"
+—,May 9,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+112,May 16,Lovelyz,"""Now, We""","8,547"
+113,May 23,VIXX,"""Shangri-La""","8,447"
+114,May 30,Seventeen,"""Don't Wanna Cry""","8,588"
+—,June 6,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+115,June 13,Seventeen,"""Don't Wanna Cry""","9,400"
+116,June 20,T-ara,"""What's My Name?""","7,368"
+117,June 27,Mamamoo,"""Yes I Am""","8,860"
+118,July 4,Apink,"""Five""","8,590"
+119,July 11,Apink,"""Five""","8,360"
+120,July 18,Red Velvet,"""Red Flavor""","9,250"
+121,July 25,Exo,"""Ko Ko Bop""","9,570"
+122,August 1,Exo,"""Ko Ko Bop""","7,464"
+123,August 8,GFriend,"""Love Whisper""","8,950"
+—,August 15,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+124,August 22,Wanna One,"""Energetic""","9,400"
+125,August 29,Wanna One,"""Energetic""","9,250"
+—,September 5,NCT Dream,"""We Young""","8,744"
+—,September 12,Exo,"""Power""","7,665"
+126,September 19,GFriend,"""Summer Rain""","9,750"
+127,September 26,BTS,"""DNA""","10,000"
+—,October 3,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,October 10,Episode 127 rebroadcast,Episode 127 rebroadcast,Episode 127 rebroadcast
+128,October 17,Bolbbalgan4,"""Some""","8,614"
+129,October 24,Highlight,"""Can Be Better""","9,292"
+130,October 31,No Winner,No Winner,No Winner
+131,November 7,No Winner,No Winner,No Winner
+132,November 14,Monsta X,"""Dramarama""","7,400"
+133,November 21,EXID,"""DDD""","7,388"
+134,November 28,Lovelyz,"""Twinkle""","7,220"
+—,December 5,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,December 12,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,December 19,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+135,December 26,No Winner,No Winner,No Winner
+—,January 2,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 9,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 16,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+136,January 23,Oh My Girl,"""Secret Garden""","6,698"
+—,January 30,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+137,February 6,Momoland,"""Bboom Bboom""","7,308"
+—,February 13,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,February 20,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+138,February 27,Yang Yo-seob,"""Where I Am Gone""","6,780"
+139,March 6,Kim Sung-kyu,"""True Love""","6,230"
+140,March 13,Mamamoo,"""Starry Night""","9,380"
+141,March 20,Mamamoo,"""Starry Night""","9,700"
+142,March 27,NCT 127,"""Touch""","8,500"
+143,April 3,Wanna One,"""Boomerang""","10,000"
+144,April 10,EXID,"""Lady""","7,854"
+145,April 17,Monsta X,"""Jealousy""","7,550"
+146,April 24,VIXX,"""Scentist""","9,430"
+147,May 1,Lovelyz,"""That Day""","9,360"
+148,May 8,GFriend,"""Time for the Moon Night""","9,630"
+—,May 15,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+149,May 22,(G)I-dle,"""Latata""","8,063"
+150,May 29,(G)I-dle,"""Latata""","8,455"
+151,June 5,Shinee,"""Good Evening""","9,630"
+152,June 12,Wanna One,"""Light""","10,000"
+—,June 19,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+153,June 26,Kim Dong-han,"""Sunset""","7,040"
+154,July 3,BtoB,"""Only One For Me""","8,370"
+155,July 10,Apink,"""I'm So Sick""","9,400"
+156,July 17,Apink,"""I'm So Sick""","8,980"
+157,July 24,Mamamoo,"""Egotistic""","9,500"
+—,July 31,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+158,August 7,Leo,"""Touch & Sketch""","7,490"
+159,August 14,DIA,"""Woo Woo""","7,390"
+160,August 21,Red Velvet,"""Power Up""","8,832"
+—,August 28,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+161,September 4,(G)I-dle,"""Hann (Alone)""","6,925"
+162,September 11,Nam Woo-hyun,"""If Only You Are Fine""","8,390"
+163,September 18,Oh My Girl,"""Remember Me""","7,479"
+164,September 25,Got7,"""Lullaby""","9,944"
+165,October 2,Cosmic Girls,"""Save Me, Save You""","8,790"
+166,October 9,Soyou,"""All Night""","6,215"
+167,October 16,NCT 127,"""Regular""","9,330"
+168,October 23,NCT 127,"""Regular""","9,755"
+169,October 30,Monsta X,"""Shoot Out""","9,696"
+—,November 6,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+170,November 13,Iz*One,"""La Vie en Rose""","8,918"
+171,November 20,Iz*One,"""La Vie en Rose""","8,621"
+172,November 27,Wanna One,"""Spring Breeze""","10,000"
+173,December 4,Wanna One,"""Spring Breeze""","8,560"
+—,December 11,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,December 18,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,December 25,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 1,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 8,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 15,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+174,January 22,GFriend,"""Sunrise""","8,617"
+175,January 29,Astro,"""All Night""","8,170"
+—,February 5,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+176,February 12,CLC,"""No""","5,470"
+177,February 19,CLC,"""No""","8,745"
+178,February 26,Monsta X,"""Alligator""","9,480"
+179,March 5,N.Flying,"""Rooftop""","5,816"
+180,March 12,TXT,"""Crown""","7,190"
+181,March 19,Mamamoo,"""Gogobebe""","6,590"
+182,March 26,Momoland,"""I'm So Hot""","7,981"
+183,April 2,Momoland,"""I'm So Hot""","6,311"
+184,April 9,Iz*One,"""Violeta""","9,646"
+185,April 16,Iz*One,"""Violeta""","9,425"
+186,April 23,Super Junior-D&E,"""Danger""","9,250"
+—,April 30,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+187,May 7,The Boyz,"""Bloom Bloom""","7,032"
+188,May 14,Oh My Girl,"""The Fifth Season (SSFWL)""","8,205"
+—,May 21,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+189,May 28,Kim Jae-hwan,"""Begin Again""","9,376"
+190,June 4,AB6IX,"""Breathe""","8,190"
+191,June 11,Cosmic Girls,"""Boogie Up""","7,460"
+192,June 18,Cosmic Girls,"""Boogie Up""","7,210"
+193,June 25,Ateez,"""Wave""","6,207"
+194,July 2,(G)I-dle,"""Uh-Oh""","7,505"
+195,July 9,GFriend,"""Fever""","9,100"
+196,July 16,Ha Sung-woon,"""Blue""","8,150"
+—,July 23,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+197,July 30,CIX,"""Movie Star""","8,290"
+198,August 6,NCT Dream,"""Boom""","9,600"
+199,August 13,Oh My Girl,"""Bungee (Fall In Love)""","8,421"
+200,August 20,NCT Dream,"""Boom""","8,020"
+201,August 27,Red Velvet,"""Umpah Umpah""","7,980"
+202,September 3,X1,"""Flash""",N/A
+203,September 10,X1,"""Flash""","9,500"
+—,September 17,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+204,September 24,Everglow,"""Adios""","7,861"
+205,October 1,No Winner,No Winner,No Winner
+206,October 8,Jeong Se-woon,"""When It Rains""","6,543"
+207,October 15,AB6IX,"""Blind For Love""","7,810"
+208,October 22,AB6IX,"""Blind For Love""","8,560"
+209,October 29,TXT,"""Run Away""","6,290"
+210,November 5,Monsta X,"""Follow""","6,480"
+211,November 12,Victon,"""Nostalgic Night""","8,160"
+—,November 19,"Show Special, no Winner","Show Special, no Winner","Show Special, no Winner"
+212,November 26,Cosmic Girls,"""As You Wish""","7,370"
+213,December 3,Kang Daniel,"""Touchin'""","6,195"
+—,December 10,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,December 17,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,December 24,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,December 31,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 7,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 14,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 21,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 28,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,February 4,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+214,February 11,GFriend,"""Crossroads""","7,201"
+215,February 18,GFriend,"""Crossroads""","6,680"
+216,February 25,Iz*One,"""Fiesta""","8,820"
+217,March 3,Iz*One,"""Fiesta""","9,393"
+—,March 10,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+218,March 17,Victon,"""Howling""","6,870"
+219,March 24,Sejeong,"""Plant""","5,827"
+220,March 31,Kang Daniel,"""2U""","8,290"
+—,April 7,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,April 14,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+221,April 21,Apink,"""Dumhdurum""","7,810"
+222,April 28,Solar,"""Spit it Out""","9,100"
+223,May 5,Oh My Girl,"""Nonstop""","8,631"
+224,May 12,Oh My Girl,"""Nonstop""","6,806"
+—,May 19,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+225,May 26,TXT,"""Can't You See Me?""","8,880"
+226,June 2,Monsta X,"""Fantasia""","8,690"
+227,June 9,Victon,"""Mayday""","8,120"
+228,June 16,Cosmic Girls,"""Butterfly""","8,100"
+229,June 23,Iz*One,"""Secret Story of the Swan""","9,030"
+230,June 30,Iz*One,"""Secret Story of the Swan""","7,657"
+231,July 7,AB6IX,"""The Answer""","8,976"
+232,July 14,SF9,"""Summer Breeze""","8,830"
+233,July 21,GFriend,"""Apple""","9,180"
+—,July 28,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+234,August 4,Ateez,"""Inception""","5,870"
+235,August 11,Kang Daniel,"""Who U Are""","7,135"
+—,August 18,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,August 25,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+236,September 1,Cravity,"""Flame""","6,070"
+237,September 8,Lovelyz,"""Obliviate""","8,638"
+238,September 15,YooA,"""Bon Voyage""","6,689"
+239,September 22,Moonbin & Sanha,"""Bad Idea""","6,450"
+—,September 29,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+240,October 6,The Boyz,"""The Stealer""","8,370"
+241,October 13,Golden Child,"""Pump It Up""","8,680"
+242,October 20,Pentagon,"""Daisy""","8,470"
+—,October 27,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+243,November 3,TXT,"""Blue Hour""","8,370"
+244,November 10,Monsta X,"""Love Killa""","7,410"
+245,November 17,GFriend,"""Mago""","9,185"
+246,November 24,BtoB 4U,"""Show Your Love""","7,040"
+—,December 1,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+247,December 8,NCT U,"""90's Love""","8,070"
+248,December 15,Iz*One,"""Panorama""","8,559"
+—,December 22,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,December 29,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner
+—,January 5,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,
+—,January 12,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,
+—,January 19,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,
+249,January 26,(G)I-dle,"""Hwaa""","8,184",
+250,February 2,Golden Child,"""Burn It""","7,880",
+—,February 9,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,
+—,February 16,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,
+251,February 23,Kang Daniel,"""Paranoia""","7,985",
+252,March 2,ONF,"""Beautiful Beautiful""","9,040",
+253,March 9,Ateez,"""Fireworks (I'm The One)""","6,470",
+254,March 16,Brave Girls,"""Rollin'""","5,252",
+255,March 23,Lim Young-woong,"""My Starry Love""","6,170",
+—,March 30,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,
+256,April 6,WJSN,"""Unnatural""","7,810",
+257,April 13,Astro,"""One""","9,500",
+258,April 20,Kang Daniel,"""Antidote""","8,633",
+259,April 27,"Special episode, winner not announced","Special episode, winner not announced","Special episode, winner not announced",
+260,May 4,Enhypen,"""Drunk-Dazed""","6,790",
+261,May 11,Highlight,"""Not The End""","8,810",
+262,May 18,Oh My Girl,"""Dun Dun Dance""","7,851",
+263,May 25,Oh My Girl,"""Dun Dun Dance""","6,785",
+264,June 1,Everglow,"""First""","5,080",
+265,June 8,TXT,"""0x1=Lovesong (I Know I Love You)""","8,320",
+266,June 15,Ha Sung-woon,"""Sneakers""","6,740",
+267,June 22,Brave Girls,"""Chi Mat Ba Ram""","7,015",
+—,June 29,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,
+268,July 6,Loona,"""PTT (Paint the Town)""","5,810",
+269,July 13,Jeon So-yeon,"""Beam Beam""","6,742",
+—,July 20,"Special episode, winner not announced","Special episode, winner not announced","Special episode, winner not announced",[citation needed]
+—,July 27,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,
+—,August 3,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+270,August 10,Astro,"""After Midnight""","9,520",
+271,August 17,The Boyz,"""Thrill Ride""","9,400",
+272,August 24,TXT,"""Loser=Lover""","7,980",
+273,August 31,Lee Chan-won,"""Convenience Store""","5,190",
+274,September 7,Fromis 9,"""Talk & Talk""","8,470",
+275,September 14,STAYC,"""Stereotype""","8,760",
+—,September 21,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+276,September 28,NCT 127,"""Sticker""","8,054",
+—,October 5,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+277,October 12,Woodz,"""Waiting""","7,427",
+278,October 19,Enhypen,"""Tamed-Dashed""","7,770",
+279,October 26,Aespa,"""Savage""","7,048",
+280,November 2,Park Ji-hoon,"""Serious""","6,170",
+281,November 9,The Boyz,"""Maverick""","8,492",
+—,November 16,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+282,November 23,Monsta X,"""Rush Hour""","8,200",
+283,November 30,Monsta X,"""Rush Hour""","9,400",
+—,December 7,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+284,December 14,Ive,"""Eleven""","7,376",
+—,December 21,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+—,December 28,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+—,January 4,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+—,January 11,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+—,January 18,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+285,January 25,Fromis 9,"""DM""","8,353",
+—,February 1,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+—,February 8,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+—,February 15,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+286,February 22,Apink,"""Dilemma""","9,700",
+287,March 1,STAYC,"""Run2U""","8,261",
+288,March 8,STAYC,"""Run2U""","7,669",
+—,March 15,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+289,March 22,(G)I-dle,"""Tomboy""","7,970",
+290,March 29,Highlight,"""Daydream""","8,650",
+291,April 5,Oh My Girl,"""Real Love""","8,881",
+292,April 12,Ive,"""Love Dive""","9,400",
+293,April 19,Ive,"""Love Dive""","8,184",
+294,April 26,Dreamcatcher,"""Maison""","7,914",
+295,May 3,Miyeon,"""Drive""","6,944",
+296,May 10,Le Sserafim,"""Fearless""","8,456",
+297,May 17,Le Sserafim,"""Fearless""","9,670",
+298,May 24,Astro,"""Candy Sugar Pop""","8,970",
+—,May 31,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+299,June 7,Jo Yu-ri,"""Love Shhh!""","6,489",
+—,June 14,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+—,June 21,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+300,June 28,Loona,"""Flip That""","8,200",
+301,July 5,Fromis 9,"""Stay This Way""","8,270",
+302,July 12,Enhypen,"""Future Perfect""","7,200",
+303,July 19,Chungha,"""Sparkling""","6,984",
+304,July 26,STAYC,"""Beautiful Monster""","8,369",
+305,August 2,Ateez,"""Guerrilla""","7,200",
+306,August 9,Ateez,"""Guerrilla""","8,640",
+—,August 16,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+—,August 23,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+307,August 30,Ive,"""After Like""","8,734",
+308,September 6,Ive,"""After Like""","7,403",
+309,September 13,Oneus,"""Same Scent""","7,950",
+310,September 20,Oneus,"""Same Scent""","9,370",
+—,September 27,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+311,October 4,Cravity,"""Party Rock""","9,110",
+—,October 11,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+312,October 18,DKZ,"""Uh-Heung""","8,530",
+313,October 25,(G)I-dle,"""Nxde""","8,551",
+—,November 1,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+—,November 8,No Broadcast or Winner,No Broadcast or Winner,No Broadcast or Winner,[citation needed]
+314,November 15,Highlight,"""Alone""","9,170",
+315,November 22,YooA,"""Selfish""","7,227",
